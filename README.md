@@ -1,4 +1,7 @@
 # TaxiAvailability
+Analyse spatial-temporal availability of taxis
+
+![Map](https://github.com/ReinhardSellmair/TaxiAvailability/blob/master/TaxiDensityPlanningArea.png)
 
 This repository contains Matlab code to download locations of currently available taxis from mytransport.sg. Furthermore, scripts are included to export the downloaded data to a database and visualise the location of taxis. Analyses on the data is summaries in a presentation. 
 
